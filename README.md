@@ -10,3 +10,4 @@ It conatains explorations of different spark functionalities provided by Stanfor
 - Word Count
 - Recommender Systems
 - SparkML for classifications
+- Covid-19 Analysiss
